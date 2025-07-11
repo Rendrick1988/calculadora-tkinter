@@ -28,8 +28,5 @@ Permite realizar operações matemáticas básicas e avançadas com **histórico
 ## 📸 Interface da Calculadora
 
 
-```bash
-📍 Em breve: screenshot da interface
-
 https://github.com/Rendrick1988/calculadora-tkinter/issues/1#issue-3165441870
 
